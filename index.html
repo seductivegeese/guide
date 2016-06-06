@@ -10,7 +10,7 @@ layout: default
 <p>Let’s make Waterloo great again, together.</p>
   <h1 class="page-heading">Table of Contents</h1>
     <h2>
-      <a class="post-link" href="/food">Food</a>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
   <h1 class="page-heading">Posts</h1>
 
@@ -28,4 +28,7 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
+  <h1 class="page-heading">Contribute</h1>
+
+  <h1 class="page-heading">Credits</h1>
 </div>
