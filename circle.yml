@@ -1,6 +1,6 @@
 machine:
   ruby:
-    version: 2.2.3p173
+    version: 2.2.3-p173
 deployment:
   source:
     branch: master
