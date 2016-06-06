@@ -8,3 +8,6 @@ deployment:
       - ./bundle install
       - ./bundle exec jekyll build
       - ./deploy.sh
+test:
+  override:
+    -echo "test"
