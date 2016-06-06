@@ -1,4 +1,5 @@
 # guide
+[![CircleCI](https://circleci.com/gh/seductivegoose/guide/tree/master.svg?style=svg)](https://circleci.com/gh/seductivegoose/guide/tree/master)
 A guide to the KW region. 
 
 
