@@ -13,32 +13,43 @@ T: Take out, S: Sit down, D: Delivery available, Catering
 
 
 ### Kinkaku Izakaya (S, T)
+
+**Location: Downtown Kitchener, a short walk from Charles Street Terminal**
+
+**Price: 25$ - 35$ for AYCE**
+
 Think you’ve had good sushi? Kinkaku Izakaya has great All you can eat sushi. It’s probably the place with the best selection and quality of service in town, all in a “traditional” booth atmosphere. They’ve got a la carte sushi if you’re don’t feel like stuffing your face. 
 Downside: it’s on the expensive side, but I think it’s totally worth it.
-Location: Downtown Kitchener, a short walk from Charles Street Terminal
-Price: Expect to dish out 25$ - 35$ for AYCE
+
 
 ### Watami Sushi (S, T)
 Great Ramen near Uptown Waterloo. I believe it’s only served on weekends though, so be aware. Other dishes are still great!
 
 ### Suki Sushi (S)
+
+**Price: ~$17 per person**
+
 Low key cozy family business sushi restaurant located on Amos/Erb. Great decor, not too noisy, very niche hangout location if you want a break from school, not too far from school.
-Price: ~$17 per person
+
 
 ### Sushi 168 (T, S, C)
 Nice all you can eat sushi place located in the Westmount plaza. They have everything that you wish to eat in an Asian restaurant, sushi, teriyaki, tempura, dim sum. They also have an open salad bar with ice crabs and a DIY shaved ice, which is a must have. 
 Price: 16$ for lunch, 25$ for dinner
 
 ### Sonny’s (T)
+
+**Price: 8 to 12$**
+
 A nice retro burger joint near University/Weber. Don’t let its look deceive you, the place might look like a restaurant forever stuck in the 80s, with old timey arcade machines and palm readers. But you know what? Some great things from the 80s are still around and we still love them, like [uhh -> me? -PL]. Do get the Steak on a Kaiser, that shit is legit.
-Price: 8 to 12$
 
 ### Mel’s (S)
 A retro futuristic diner in the plaza. Go try the Godfather. It’s also open 24h on Saturday, great for a 3AM food trip.
 
 ### Lancaster Smokehouse
+
+**Price: 20$**
+
 Meat! Did I say meat? This place’s stocked with amazing ribs, pulled pork and chicken, and there’s usually live blues music playing too. The restaurant is rather far away from campus, and it takes a 30min bus ride to get there, but you know what? Call up your crew and hop over there right now. Get the 5 meat platter combo, and you’ll have enough meat to last you a metaphorical lifetime, plus 3 sides to spare.
-Price: 20$
 
 ### Hog Tails
 On the opposite end of town from Lancaster Smokehouse but with the same owners. (I haven’t actually tried it, only Lancaster, but it should be good and is a counterpoint).
@@ -47,10 +58,12 @@ On the opposite end of town from Lancaster Smokehouse but with the same owners. 
 Pretty decent Korean food. Do I need to say more? It’s near Uptown Waterloo (specifically King and Erb) and is reasonably priced.
 
 ### The Keg (S) - // Maybe T and D?
-Great steaks. A bit on the pricy side though, but if you want to splurge on a night out - this is a great place to be.
 
-Price: About $30-50. 
-Location: Northfield/Davenport, a 4 minute walk from Conestoga Mall. 
+**Price: About $30-50.**
+
+**Location: Northfield/Davenport, a 4 minute walk from Conestoga Mall.**
+
+Great steaks. A bit on the pricy side though, but if you want to splurge on a night out - this is a great place to be.
 
 ### The Berlin (S)
 PL: Haven’t been there yet (opened after I left for Zurich) but has been getting a lot of press. High-end for KW.
