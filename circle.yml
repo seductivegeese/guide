@@ -1,0 +1,10 @@
+deployment:
+  machine:
+    ruby:
+      version: 2.2.3
+  source:
+    branch: master
+    commands:
+      - ./bundle install
+      - ./bundle exec jekyll build
+      - ./deploy.sh
