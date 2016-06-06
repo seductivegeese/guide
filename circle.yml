@@ -10,4 +10,4 @@ deployment:
       - ./deploy.sh
 test:
   override:
-    -echo "test"
+    - echo "test"
