@@ -2,7 +2,7 @@ machine:
   ruby:
     version: 2.2.3
 deployment:
-  source:
+  master:
     branch: master
     commands:
       - ./bundle install
