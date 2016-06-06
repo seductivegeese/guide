@@ -6,7 +6,7 @@ deployment:
     branch: master
     commands:
       - bundle exec jekyll build
-      - ./deploy.sh
+      - bash deploy.sh
 test:
   override:
     - echo "test"
