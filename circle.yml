@@ -1,7 +1,7 @@
 deployment:
   machine:
     ruby:
-      version: 2.2.3
+      version: 2.2.3p173
   source:
     branch: master
     commands:
