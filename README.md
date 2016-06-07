@@ -15,7 +15,7 @@ We encourage you to share your experience in the KW region! If you want to add o
 
 Simply go to the page that you want to edit (they are saved in respective folders), make the change, and submit a pull request. Once approved, the changes will be reflected on the actual guide.
 
-** More technical detail **
+**More technical detail**
 
 We use [Jekyll](https://jekyllrb.com/) to render our Markdown posts, to be served as a static site.
 
