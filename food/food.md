@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Food"
+title:  "Eat"
 permalink: /food
 ---
 
@@ -145,6 +145,10 @@ The most complete asian supermarket in the city. You can get most Asian food and
 ### Sugar Marmalade
 
 ### Foodie Fruiti
+
+### Honorary mentions
+These are places that we don’t think represent the best of Waterloo, but it’s here because they’ve got a reputation on Campus and it’s worth trying it just to say you’ve tried it (at the very least).
+Mr. Panino’s, Chen’s, Campus Pizza
 
 ### Poutine
 Yu Chen: Since I’m from Montreal, I feel pretty obligated to write out the best poutine shops in town. In no order of greatness: Aunty’s Kitchen (Indian poutine fusion), Harvey’s (quick and convenient), Costco (it’s a classic), and Al-Medina (their shawarma poutine is the shit). Avoid Smoke’s Poutine, that place is meh.
