@@ -8,28 +8,16 @@ layout: default
 <p>We’ve spoken to many people and there’s just too many that have never gotten off campus, or been to Kitchener. This guide is meant to help you and your friends find awesome events in the city and fill up on amazing grub, and is meant as a gateway to some of the lesser known places in the city.</p>
 
 <p>Let’s make Waterloo great again, together.</p>
-  <h1 class="page-heading">Table of Contents</h1>
-    <h2>
-      <a class="post-link" href="{{ "/food" | prepend: site.baseurl }}">Food</a>
-    </h2>
-    <h2>
-      <a class="post-link" href="{{ "/pubs" | prepend: site.baseurl }}">Pubs</a>
-    </h2>
-    <h2>
-      <a class="post-link" href="{{ "/hobbies" | prepend: site.baseurl }}">Hobbies</a>
-    </h2>
-    <h2>
-      <a class="post-link" href="{{ "/sights" | prepend: site.baseurl }}">Sights</a>
-    </h2>
-    <h2>
-      <a class="post-link" href="{{ "/events" | prepend: site.baseurl }}">Events</a>
-    </h2>
-    <h2>
-      <a class="post-link" href="{{ "/transit" | prepend: site.baseurl }}">Transit</a>
-    </h2>
-    <h2>
-      <a class="post-link" href="{{ "/misc" | prepend: site.baseurl }}">Other</a>
-    </h2>
+  <div class="hero-container">
+    {% for my_page in site.pages %}
+      {% if my_page.title %}
+      <div class="page">
+        <a class="post-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
