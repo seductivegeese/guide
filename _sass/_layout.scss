@@ -240,3 +240,22 @@
         }
     }
 }
+
+.hero-container {
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap:         wrap;
+  -webkit-flex-direction: row;
+  flex-direction:         row;
+  justify-content: space-between;
+  .page {
+    display: flex;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    -webkit-flex-direction: column; /* Safari */
+    flex-direction:         column;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
