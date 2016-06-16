@@ -3,9 +3,6 @@ layout: page
 title:  "Events"
 permalink: /events
 ---
-
-Meetups
-
 ## [Nightshift](http://nightshiftwr.ca/)
 An annual nightly festival featuring pop-up and interactive art in public spaces. Similar to Nuit Blanche in Toronto.
 Held every year around October - November.
@@ -26,4 +23,7 @@ An EDM festival. Happens around summer (June).
 ## [Open Streets Uptown Waterloo](http://www.openstreetsutw.ca/)
 
 ## [Royal Medieval Faire](http://www.royalmedievalfaire.org/)
+
+## Meetups
+[Hackernest](http://hackernest.com/): A monthly tech social. With free beer.
 
