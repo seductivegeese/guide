@@ -44,3 +44,6 @@ Galaxy Cinemas at Conestoga
 ### Escape Room
 
 ### Chicopee (Ski Hill + Tube Park)
+
+### [KwartzLab KW](http://www.kwartzlab.ca/)
+A old school makespace in Kitchener, they have an open house ever Tuesday for non members if you are interested in hardware hacking.
