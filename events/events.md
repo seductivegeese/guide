@@ -1,8 +1,12 @@
 ---
+title: Events
 layout: page
-title:  "Events"
-permalink: /events
+permalink: "/events"
 ---
+The KW area is home to a number of festivals every year, and a lot more!
+
+[GrandSocial](http://grandsocial.ca/) is a decent website that lists events in the city. For school events the best place is to check relevant Facebook pages (Engsoc, Feds, etc).
+
 ## [Nightshift](http://nightshiftwr.ca/)
 An annual nightly festival featuring pop-up and interactive art in public spaces. Similar to Nuit Blanche in Toronto.
 Held every year around October - November.
