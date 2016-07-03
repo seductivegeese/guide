@@ -11,9 +11,9 @@ layout: default
   <div class="hero-container">
     {% for my_page in site.pages %}
       {% if my_page.title %}
-      <div class="page">
-        <a class="post-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-      </div>
+      <a class="page" href="{{ my_page.url | prepend: site.baseurl }}" id="{{ my_page.slug }}">
+        <p class="post-link">{{ my_page.title }}</p>
+      </a>
       {% endif %}
     {% endfor %}
   </div>

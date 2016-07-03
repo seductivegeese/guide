@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Pubs"
+slug:  "Pubs"
 permalink: /pubs
 ---
 

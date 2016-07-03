@@ -1,6 +1,7 @@
 ---
 title: See
 layout: page
+slug: "see"
 permalink: "/sights"
 ---
 

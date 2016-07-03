@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Get around"
+slug: "transit"
 permalink: /transit
 ---
 

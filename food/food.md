@@ -1,5 +1,6 @@
 ---
 title: Eat
+slug: Eat
 layout: page
 permalink: "/food"
 ---

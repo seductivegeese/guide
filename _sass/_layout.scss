@@ -257,5 +257,29 @@
     flex-direction:         column;
     -webkit-justify-content: center;
     justify-content: center;
+    background-color: lightgray;
+    background-size: cover;
+  }
+  a{
+    text-shadow: 1px 1px 10px rgba(150, 150, 150, 1);
+    color: white;
+  }
+  #Eat {
+    background-image: url("../img/food.jpg");
+  }
+  #Hobbies {
+    background-image: url("../img/board.jpg");
+  }
+  #Events {
+    background-image: url("../img/festival.jpg");
+  }
+  #Pubs {
+    background-image: url("../img/pub.jpeg");
+  }
+  #transit {
+    background-image: url("../img/grt.png");
+  }
+  #see {
+    background-image: url("../img/see.jpg");
   }
 }

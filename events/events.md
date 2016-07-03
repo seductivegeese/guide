@@ -1,5 +1,6 @@
 ---
 title: Events
+slug: Events
 layout: page
 permalink: "/events"
 ---

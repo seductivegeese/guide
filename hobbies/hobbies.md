@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Hobbies"
+slug:  "Hobbies"
 permalink: /hobbies
 ---
 
