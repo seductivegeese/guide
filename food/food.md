@@ -3,13 +3,13 @@ title: Eat
 layout: page
 permalink: "/food"
 ---
-TODO
-*Should* probably be organized by $$$ later 
-Also this is super subjective so let’s tread lightly here
-let’s be selective, they’ve probably already heard of Kinkazu etc. anyways
-how about a list of must go (popular), a list of feel free to explore (niche stuff)
+**TODO**
 
-T: Take out, S: Sit down, D: Delivery available, Catering
+- *Should* probably be organized by $$$ later 
+- Also this is super subjective so let’s tread lightly here
+- Maybe organize into list of must go (popular), a list of feel free to explore (niche stuff)
+
+**T: Take out, S: Sit down, D: Delivery available, Catering**
 
 
 ### Kinkaku Izakaya (S, T)
