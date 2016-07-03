@@ -1,9 +1,9 @@
 ---
+title: Eat
 layout: page
-title:  "Eat"
-permalink: /food
+permalink: "/food"
 ---
-
+TODO
 *Should* probably be organized by $$$ later 
 Also this is super subjective so let’s tread lightly here
 let’s be selective, they’ve probably already heard of Kinkazu etc. anyways
