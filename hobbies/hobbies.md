@@ -1,8 +1,8 @@
 ---
+title: Hobbies
 layout: page
-title:  "Hobbies"
-slug:  "Hobbies"
-permalink: /hobbies
+slug: Hobbies
+permalink: "/hobbies"
 ---
 
 ### Grand River Rocks (GRR)
@@ -18,8 +18,13 @@ Badminton (almost available everyday)
 A rather large board game store on Weber, and it is surprisingly enough one of the largest ones I’ve ever seen. You’ll find anything you ever want here, from nerf guns to Magic the Gathering cards to obscure hipster board games. Decent pricing as well, definitively cheaper than ordering off Amazon.
 
 ### Games on Tap
+A board game cafe on Weber, 5$ cover and a very large selection of games. Also snacks and drinks on the menu.
+
 ### Crossroads
+Another board game cafe near University/King. You'll need to pay either cover or a drink to play, but the price is very fair. The selection is smaller than Games on Tap, and they have games for sale if you want to buy something!
+
 ### Hardware store in Cambridge
+
 ### Biking:
 - There’s a nice off the road bike trail behind the Boardwalk, one of the best in the country apparently
 
