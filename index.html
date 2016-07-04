@@ -1,7 +1,7 @@
 ---
+title: ''
 layout: default
 ---
-
 <div class="home">
   <p>Waterloo is boring. Very boring. We get it. It’s not Toronto or the Valley, but that doesn’t mean you can’t have a good time here. If you’re like us, you’re probably in the city anywhere from 4 to 8 months every year for at least 5 years. So let’s make the best of that time, shall we? </p>
 
@@ -23,7 +23,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {{ post.date | date: "%b %-d, %Y" }}
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -32,9 +32,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ " feed.xml"="" |="" prepend:="" site.baseurl="" }}"="">via RSS</a></p>
 
-  <h1 class="page-heading">Contribute</h1>
-
-  <h1 class="page-heading">Credits</h1>
+  <h1 class="page-heading">Contribute</h1><p class="page-heading">Please take a look at the <a href="/about">about</a>&nbsp;page.</p>
 </div>
