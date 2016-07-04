@@ -1,0 +1,12 @@
+machine:
+  ruby:
+    version: 2.2.3
+deployment:
+  master:
+    branch: master
+    commands:
+      - bundle exec jekyll build
+      - bash deploy.sh
+test:
+  override:
+    - echo "test"
