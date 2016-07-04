@@ -10,7 +10,7 @@ layout: default
 <p>Let’s make Waterloo great again, together.</p>
   <div class="hero-container">
     {% for my_page in site.pages %}
-      {% if my_page.title %}
+      {% if my_page.slug and my_page.title != "About" %}
       <a class="page" href="{{ my_page.url | prepend: site.baseurl }}" id="{{ my_page.slug }}">
         <p class="post-link">{{ my_page.title }}</p>
       </a>

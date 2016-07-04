@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Other"
+slug: "other"
 permalink: /misc
 ---
 
